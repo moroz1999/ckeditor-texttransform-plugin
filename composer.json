@@ -2,6 +2,6 @@
     "name": "moroz1999/ckeditor-texttransform-plugin",
     "type": "package",
     "require": {
-        "php": ">=5.4.0",	
+        "php": ">=5.4.0"
     }    
 }
